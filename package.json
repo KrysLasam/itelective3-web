@@ -1,0 +1,31 @@
+{
+  "name": "weatherjs",
+  "version": "1.0.0",
+  "description": "![](images/LGU_Davao.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrysLasam/itelective3-web.git"
+  },
+  "keywords": [
+    "weatherjs"
+  ],
+  "author": "Krys Lasam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrysLasam/itelective3-web/issues"
+  },
+  "homepage": "https://github.com/KrysLasam/itelective3-web#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}

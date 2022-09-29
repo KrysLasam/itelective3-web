@@ -14,8 +14,8 @@ app.get('/', function (req, res) {
         }
         res.render('index', { panahon: weather_data });
     });
-
 })
+
 app.get('/other', function (req, res) {
     res.render('other');
 })
