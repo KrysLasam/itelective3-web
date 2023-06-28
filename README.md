@@ -7,7 +7,7 @@
 <br>
 
 ## **Framework**
-![](images/WordPress.png)
+![](images/WordPress.png | width=100)
 <dl>
 <dt>WordPress</dt>
 <dd>Is a website host and content management system (CMS) that enables the creation of websites.</dd>
